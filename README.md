@@ -4,6 +4,10 @@ Welcome to my Cybersecurity Portfolio repository! This repository showcases my e
 
 ## Projects
 
+### Professional Statement
+
+My professional statement reflects my commitment to upholding ethical conduct, continuous learning, risk assessment, security implementation, and promoting cybersecurity awareness.
+
 ### Security Audit
 Explore my project on conducting a comprehensive security audit to assess and identify potential vulnerabilities within an organization's systems and processes.
 
